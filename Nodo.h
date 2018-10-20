@@ -1,5 +1,6 @@
 #include "Persona.h"
-
+#include <iostream>
+#include <string>
 struct Nodo
 {
 	Persona valor;
